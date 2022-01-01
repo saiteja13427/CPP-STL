@@ -16,7 +16,7 @@ How to use?
 // Max Heap
 // By default the heap is a max heap with size of 10
 
-heap<int> h
+heap<int> h;
 
 // Min Heap
 
@@ -24,9 +24,9 @@ heap<int> h(true);
 
 // To customise the size of the heap
 
-heap<int> h(false, 100) // Max heap
+heap<int> h(false, 100);// Max heap
 
-heap<int> h(true, 100) // Min heap
+heap<int> h(true, 100); // Min heap
 
 ```
 
