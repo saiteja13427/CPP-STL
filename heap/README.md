@@ -6,13 +6,13 @@ The file `heap.h` is a header file using which you can include in your C++ progr
 
 Firstly include the header file. Make sure that the header file is in the same folder of your program.
 
-```
+```c++
 #include "heap.h"
 ```
 
 How to use?
 
-```
+```c++
 // Max Heap
 // By default the heap is a max heap with size of 10
 
