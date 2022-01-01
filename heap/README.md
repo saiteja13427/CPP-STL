@@ -2,7 +2,7 @@
 
 The file `heap.h` is a header file which you can include in your C++ program and use heap data structure.
 
-# Usage
+## Usage
 
 Firstly include the header file. Make sure that the header file is in the same folder of your program.
 
