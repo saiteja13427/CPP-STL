@@ -17,3 +17,13 @@ To use any datastructure
 3. Move the header file to the location of your program.
 4. Include it in your program and you are good to go.
 5. The documentation for every data structure is present in a separate readme in respective folder.
+
+## Data Structures
+
+Following are the data structures which are there or will be pushed soon to the repo
+
+1. Linked List
+2. Stack
+3. Queue
+4. Heap
+5. Hash Table
