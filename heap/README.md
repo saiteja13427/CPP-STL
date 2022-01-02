@@ -37,4 +37,4 @@ The following are the methods available on the heap object.
 1. **push (data)**: Pushing the data into heap.
 2. **pop ()**: Remove the top element.
 3. **top ()**: Returns the top element.
-4. **isEmpty ()**: Checks if the heap is empty or not.
+4. **is_empty ()**: Checks if the heap is empty or not.

@@ -94,7 +94,7 @@ public:
     // Heap empty or not
     // Time Complexity      O(1)
     // Space Complexity     O(1)
-    bool isEmpty()
+    bool is_empty()
     {
         return h.size() == 1;
     }

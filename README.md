@@ -22,8 +22,9 @@ To use any datastructure
 
 Following are the data structures which are there or will be pushed soon to the repo
 
-1. Linked List
-2. Stack
-3. Queue
-4. Heap
-5. Hash Table
+1. Vector
+2. Linked List
+3. Stack
+4. Queue
+5. Heap
+6. Hash Table
